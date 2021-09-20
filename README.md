@@ -1,6 +1,6 @@
 # @loopback/example-todo
 
-This is the basic tutorial for getting started with Loopback 4!
+The basic tutorial is modified for learning purposes
 
 ## Overview
 
